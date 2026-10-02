@@ -1,0 +1,91 @@
+{
+  id:1,
+    category:"Noise",
+    title:"Quiet Hours",
+    rule:"Maintain quiet adter 22:00 (10 PM) until 08:00 (8 AM)",
+    description:
+        "Loud music, parties, or excessive noise during these hours may result in complaints and penalties"
+},
+{
+    id:2,
+    category:"Pets",
+    title:"No Pets Allowed",
+    rule:"Pets are strictly prohibited in the apartment",
+    description:
+        "No dogs, cats, or any other animals are permitted. Service animals require prior approval and documendation"
+
+},
+{
+  id: 3,
+  category: "Guests",
+  title: "Guest Restrictions",
+  rule: "Guests must follow all apartment rules and regulations",
+  description:
+    "Residents are responsible for their guests and any violations caused during their stay"
+},
+{
+  id: 4,
+  category: "Smoking",
+  title: "No Smoking",
+  rule: "Smoking is prohibited inside the apartment and common areas",
+  description:
+    "Smoking cigarettes, cigars, or other tobacco products is not permitted in indoor or designated non-smoking areas"
+},
+{
+  id: 5,
+  category: "Parking",
+  title: "Parking Rules",
+  rule: "Park only in your assigned or designated parking space",
+  description:
+    "Parking in another resident's space or blocking entrances, exits, or emergency access is strictly prohibited"
+},
+{
+  id: 6,
+  category: "Common Areas",
+  title: "Respect Common Areas",
+  rule: "Keep shared areas clean and accessible to all residents",
+  description:
+    "Do not leave personal belongings, trash, or other items in hallways, stairways, elevators, or other common areas"
+},
+
+{
+    id:7,
+    category:"Trash",
+    title:"Proper Waste Disposal",
+    rule:"Dispose of trash in designated bins and follow recycling gudelines",
+    description:
+        "Trash must be placed in proper containers, Recycling is mandatory wehere avaliable"
+},
+{
+  id: 8,
+  category: "Security",
+  title: "Building Security",
+  rule: "Keep entrance doors and security gates closed at all times",
+  description:
+    "Residents should not allow unauthorized individuals to enter the building and must report suspicious activity to management"
+},
+{
+  id: 9,
+  category: "Maintenance",
+  title: "Report Maintenance Issues",
+  rule: "Report leaks, damage, or maintenance problems as soon as possible",
+  description:
+    "Residents should notify property management promptly to prevent minor issues from becoming serious problems"
+},
+{
+  id: 10,
+  category: "Decorations",
+  title: "Apartment Modifications",
+  rule: "Do not make permanent changes to the apartment without prior approval",
+  description:
+    "Painting, drilling, installing fixtures, or making structural changes requires approval from property management"
+},
+{
+  id: 11,
+  category: "Safety",
+  title: "Fire Safety",
+  rule: "Keep fire exits, hallways, and emergency equipment clear at all times",
+  description:
+    "Do not block emergency exits or tamper with fire alarms, extinguishers, smoke detectors, or other safety equipment"
+}
+

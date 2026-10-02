@@ -1,0 +1,17 @@
+{
+  "name": "mcp-app",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "mcp-inspector-client": "npx @modelcontextprotocol/inspector"
+  },
+  "dependencies": {
+    "file": "^0.2.2",
+    "path": "^0.12.7"
+  }
+}
